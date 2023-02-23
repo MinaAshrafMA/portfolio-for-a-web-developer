@@ -1,0 +1,39 @@
+@media screen and (max-width:768px)
+{
+    .second .second-img {
+        width: 100%;
+        margin: auto;
+    }
+
+    .second .second-content {
+        width: 100%;
+        margin: auto;
+    }
+
+    .second-contenttxt {
+        width: 100%;
+    }
+
+    .second-contentdata {
+        width: 100%;
+    }
+
+    .second-img img {
+        left: 50px;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+
+}
+
+@media screen and (max-width:992) 
+{
+
+    .second-img img {
+        left: 10px;
+    }
+
+}
